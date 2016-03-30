@@ -12,11 +12,14 @@ Le fichier d'entrée *tiny_graph.txt* est un graphe de pages web. Chaque ligne c
 
 ## pageRank.java
 
-C'est le programme qui va calculer les Page Rank des pages contenues dans *tiny_graph.txt*. On a les
+C'est le programme qui va calculer les Page Rank des pages contenues dans *tiny_graph.txt*.
 
-## script.sh
+* Map : Pour chaque ligne *i* on liste les liens sortants *j* et on produit le couple clé-valeur (page web j, 1/NbliensSortantsPagei)
+* Reduce : pour chaque clé *j*, on sort somme les valeurs et on sort (page web j, somme valeurs associées à la valeur j)
 
-*script.sh* permet d'automatiser l'exécution du programme sur le cluster Hadoop
+## initialize.sh et launch.sh
+
+Ce sont les scripts qui permettent d'automatiser les tâches d'initialisation de la machine virtuelle et de l'execution du programme. Plus de détails dans les commentaires.
 
 ## part-r-000000
 
