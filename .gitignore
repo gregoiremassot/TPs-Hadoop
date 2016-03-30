@@ -1,0 +1,10 @@
+workspace/.metadata/.log
+.bash_history
+*.ini
+.cache/gedit/gedit-metadata.xml
+.gnome2/gedit/gedit-2
+*.xbel
+eclipse/configuration/org.eclipse.osgi/205/0/.cp/icons/full/obj16/jcu_obj.gif
+*.class
+*.xmi
+.gconfd/saved_state
