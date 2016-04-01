@@ -8,3 +8,7 @@ eclipse/configuration/org.eclipse.osgi/205/0/.cp/icons/full/obj16/jcu_obj.gif
 *.class
 *.xmi
 .gconfd/saved_state
+*.log
+Reports/Français/Rapport_Hadoop_PageRank_Francais.aux
+*.out
+Reports/Français/Rapport_Hadoop_PageRank_Francais.synctex.gz
