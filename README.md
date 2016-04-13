@@ -1,2 +1,1 @@
-## [Rapport en français](https://github.com/gregoiremassot/TPs-Hadoop/blob/master/Reports/Fran%C3%A7ais/Rapport_Hadoop_PageRank_Francais.pdf)
-## Report in English
+# [Page d'accueil](https://github.com/gregoiremassot/TPs-Hadoop/wiki/Bienvenue-sur-le-d%C3%A9p%C3%B4t-%22TPs-Hadoop%22-!) / [Home page](https://github.com/gregoiremassot/TPs-Hadoop/wiki/Welcome-to-the-repository-%22Hadoop-practical-work%22-!)
